@@ -8,7 +8,7 @@
     "category": "Manufacturing",
     "website": "https://github.com/OCA/manufacture",
     "author": "Camptocamp, Odoo Community Association (OCA), nivels Gmbh",
-    "maintainers": ["nivels"],
+    "maintainers": ["grindtildeath"],
     "license": "AGPL-3",
     "application": False,
     "installable": True,

@@ -7,7 +7,7 @@
     "development_status": "Alpha",
     "category": "Manufacturing/Manufacturing",
     "website": "https://github.com/OCA/manufacture",
-    "author": "Camptocamp, Odoo Community Association (OCA)",
+    "author": "Camptocamp, Odoo Community Association (OCA), nivels Gmbh",
     "maintainers": ["grindtildeath"],
     "license": "AGPL-3",
     "installable": True,

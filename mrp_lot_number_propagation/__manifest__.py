@@ -6,7 +6,7 @@
     "development_status": "Beta",
     "license": "AGPL-3",
     "author": "Camptocamp, Odoo Community Association (OCA), nivels Gmbh",
-    "maintainers": ["nivels"],
+    "maintainers": ["sebalix"],
     "summary": "Propagate a serial number from a component to a finished product",
     "website": "https://github.com/OCA/manufacture",
     "category": "Manufacturing",
